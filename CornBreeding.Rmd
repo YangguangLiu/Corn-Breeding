@@ -15,7 +15,7 @@ header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
   - \setlength\headheight{28.7522pt}
-  - \rhead{\includegraphics[width = .05\textwidth]{MUnivlogo.jpeg}}
+  - \rhead{\includegraphics[width = .05\textwidth]{yourlogo.jpeg}}
 output:
   pdf_document: 
     fig_caption: yes
