@@ -2,7 +2,7 @@
 
 Today, the agriculture industry works to maximize the amount of food we gain from crops by breeding
 plants with the strongest, highest-yielding genetics. Plant breeding is complex, and data analytics can help
-scientists at research and development organizations in seed product development.
+scientists at research and development organizations like Syngenta make progress in seed product development.
 
 Commercial corn is processed into multiple food and industrial products. It is widely known as one of the
 world’s most important crops. Each year, plant breeders create new corn products, known as experimental
